@@ -1,9 +1,10 @@
 {
   "name": "storybook-addon-kit-demo",
   "version": "0.0.0",
-  "description": "demo",
+  "description": "Storybook addon-kit demo",
   "keywords": [
-    "storybook-addons", "storybook-addons"
+    "storybook-addons",
+    "storybook-addons"
   ],
   "repository": {
     "type": "git",
@@ -97,12 +98,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "storybook": {
-    "displayName": "Addon Kit Demo",
-    "supportedFrameworks": [
-      "react", "vue", "angular", "web-components", "ember", "html", "svelte", "preact", "react-native"
-    ],
-    "icon": "https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png"
   }
 }
