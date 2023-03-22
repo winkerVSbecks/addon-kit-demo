@@ -1,3 +1,15 @@
+# v0.0.4 (Wed Mar 22 2023)
+
+#### ⚠️ Pushed to `main`
+
+- fic package.json exports ([@winkerVSbecks](https://github.com/winkerVSbecks))
+
+#### Authors: 1
+
+- Varun Vachhar ([@winkerVSbecks](https://github.com/winkerVSbecks))
+
+---
+
 # v0.0.3 (Wed Mar 22 2023)
 
 #### ⚠️ Pushed to `main`
